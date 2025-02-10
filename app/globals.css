@@ -19,3 +19,15 @@ body {
   background: var(--background);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+/* Custom global styles */
+body {
+  background-color: #f7fafc; /* 부드러운 연한 그레이 */
+  font-family: Inter, sans-serif;
+}
+
+/* Custom global styles */
+body {
+  background-color: #f7fafc;
+  font-family: 'Poppins', sans-serif;
+}
